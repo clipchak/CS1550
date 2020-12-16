@@ -1,0 +1,7 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Tour guide 0 arrives at time 2.
+
+
+Error: 'arrives' called for Tour guide 0 multiple times.

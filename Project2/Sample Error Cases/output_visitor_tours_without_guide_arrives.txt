@@ -1,0 +1,6 @@
+The museum is now empty.
+Visitor 0 arrives at time 0.
+Visitor 0 tours the museum at time 0.
+
+
+Error: Visitor 0 trying to tour the museum without a Tour guide

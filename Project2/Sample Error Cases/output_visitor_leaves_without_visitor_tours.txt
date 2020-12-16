@@ -1,0 +1,11 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Visitor 1 arrives at time 0.
+Visitor 0 leaves at  time 2.
+Visitor 1 leaves at time 2.
+Tour guide 0 leaves at time 2.
+
+
+Error: There is at least one ticket available and 'leaves' is called for
+        Visitor 0 without 'tours' being called

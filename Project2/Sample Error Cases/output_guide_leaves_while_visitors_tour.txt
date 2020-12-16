@@ -1,0 +1,28 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Visitor 1 arrives at time 0.
+Visitor 2 arrives at time 0.
+Visitor 3 arrives at time 0.
+Visitor 4 arrives at time 0.
+Visitor 5 arrives at time 0.
+Visitor 6 arrives at time 0.
+Visitor 7 arrives at time 0.
+Visitor 8 arrives at time 0.
+Visitor 9 arrives at time 0.
+Tour guide 0 opens the museum for tours at time 0.
+Visitor 0 tours the museum at time 0.
+Visitor 1 tours the museum at time 0.
+Visitor 2 tours the museum at time 0.
+Visitor 3 tours the museum at time 0.
+Visitor 4 tours the museum at time 0.
+Visitor 5 tours the museum at time 0.
+Visitor 6 tours the museum at time 0.
+Visitor 7 tours the museum at time 0.
+Visitor 8 tours the museum at time 0.
+Visitor 9 tours the museum at time 0.
+Tour guide 0 leaves at time 1.
+Visitor 0 leaves the museum at time 2.
+Visitor 1 leaves the museum at time 2.
+
+Error: Tour guide 0 trying to leave while visitors are still touring the museum

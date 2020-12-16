@@ -1,0 +1,39 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Visitor 1 arrives at time 0.
+Visitor 2 arrives at time 0.
+Visitor 3 arrives at time 0.
+Visitor 4 arrives at time 0.
+Visitor 5 arrives at time 0.
+Visitor 6 arrives at time 0.
+Visitor 7 arrives at time 0.
+Visitor 8 arrives at time 0.
+Visitor 9 arrives at time 0.
+Visitor 10 arrives at time 0.
+Tour guide 0 opens the museum for tours at time 0.
+Visitor 0 tours the museum at time 0.
+Visitor 1 tours the museum at time 0.
+Visitor 2 tours the museum at time 0.
+Visitor 3 tours the museum at time 0.
+Visitor 4 tours the museum at time 0.
+Visitor 5 tours the museum at time 0.
+Visitor 6 tours the museum at time 0.
+Visitor 7 tours the museum at time 0.
+Visitor 8 tours the museum at time 0.
+Visitor 9 tours the museum at time 0.
+Visitor 10 tours the museum at time 0.
+Visitor 0 leaves the museum at time 2.
+Visitor 1 leaves the museum at time 2.
+Visitor 2 leaves the museum at time 2.
+Visitor 3 leaves the museum at time 2.
+Visitor 4 leaves the museum at time 2.
+Visitor 5 leaves the museum at time 2.
+Visitor 6 leaves the museum at time 2.
+Visitor 7 leaves the museum at time 2.
+Visitor 8 leaves the museum at time 2.
+Visitor 9 leaves the museum at time 2.
+Visitor 10 leaves the museum at time 2.
+Tour guide 0 leaves the museum at time 2.
+
+Error: More than 10 Visitors touring the museum for one Tour guide

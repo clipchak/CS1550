@@ -1,0 +1,12 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Tour guide 0 opens the museum for tours at time 0.
+Visitor 0 tours the museum at time 0.
+Tour guide 1 arrives at time 0.
+Tour guide 1 opens the museum for tours at time 0.
+Tour guide 2 arrives at time 1.
+Tour guide 2 opens the museum for tours at time 1.
+
+
+Error: At most two Tour guides can be inside the museum at a time

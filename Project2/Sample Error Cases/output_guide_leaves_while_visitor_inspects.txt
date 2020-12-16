@@ -1,0 +1,13 @@
+The museum is now empty.
+Tour guide 0 arrives at time 0.
+Visitor 0 arrives at time 0.
+Visitor 1 arrives at time 0.
+Tour guide 0 opens the museum for tours at time 0.
+Visitor 0 tours the museum at time 0.
+Visitor 1 tours the museum at time 0.
+Visitor 1 leaves at time 2.
+Tour guide 0 leaves at time 2.
+
+
+Error: Visitor 0 never leaves the museum
+Error: Tour guide 0 is trying to leave while visitors are still touring the museum
