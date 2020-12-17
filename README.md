@@ -1,5 +1,5 @@
 # CS1550
-This is my repository for CS1550 (Intro to Operating Systems) which I took in the Fall of 2020 at the University of Pittsburgh. This class is a continuation of [CS 449 Intro to Systems Software](https://github.com/clipchak/CS449)
+This is my repository for CS1550 - Intro to Operating Systems which I took in the Fall of 2020 at the University of Pittsburgh. This class is a continuation of [CS 449 - Intro to Systems Software](https://github.com/clipchak/CS449)
 
 
 **Project 1 - Syscalls**
